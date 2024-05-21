@@ -1,0 +1,44 @@
+05/21/2024 02:40:33 PM: INFO: ***** Test_003_AddCustomers *****
+05/21/2024 02:40:37 PM: INFO: *********** Login Successfully ************
+05/21/2024 02:40:37 PM: INFO: ************ Started Add Customer Test ************
+05/21/2024 02:40:40 PM: INFO: ********* Providing Customer Information ************
+05/21/2024 02:40:43 PM: INFO: ******** Saving Account information ********
+05/21/2024 02:40:43 PM: INFO: ******* Add Customer validation Started *********
+05/21/2024 02:40:44 PM: INFO: ****** Add Customer Test Passed *******
+05/21/2024 02:40:44 PM: INFO: ********** Ending Home Page Title testing ***********
+05/21/2024 02:40:44 PM: INFO: *-------------------------------****--------------------------------*
+05/21/2024 02:40:47 PM: INFO: ******************** Test_001_Login ***************************
+05/21/2024 02:40:47 PM: INFO: ******************** Verifying Home Page **********************
+05/21/2024 02:40:50 PM: INFO: ************* test_homePageTitle test case is Passed **************
+05/21/2024 02:40:53 PM: INFO: ******************** Test_001_Login ***************************
+05/21/2024 02:40:53 PM: INFO: ******************** Verifying Login Page **********************
+05/21/2024 02:40:58 PM: INFO: ************* test_login test case is Passed **************
+05/21/2024 02:40:58 PM: INFO: *-------------------------------****--------------------------------*
+05/21/2024 02:41:01 PM: INFO: ******************** Test_002_DDT_Login ************************
+05/21/2024 02:41:01 PM: INFO: **************** Verifying Login Page *****************
+05/21/2024 02:41:10 PM: INFO: ***** Passed *****
+05/21/2024 02:41:18 PM: INFO: ***** Passed *****
+05/21/2024 02:41:23 PM: INFO: ***** Passed *****
+05/21/2024 02:41:29 PM: INFO: ***** Passed *****
+05/21/2024 02:41:29 PM: INFO: ****** Login DDT testdata Passed... *******
+05/21/2024 02:41:30 PM: INFO: ***** End of Login Page DDT test *****
+05/21/2024 02:41:30 PM: INFO: ***** Completed Test_002_DDT_Login 
+05/21/2024 02:41:30 PM: INFO: *-------------------------------****--------------------------------*
+05/21/2024 02:41:32 PM: INFO: ***** Test_004_SearchCustomersByEmail *****
+05/21/2024 02:41:36 PM: INFO: *********** Login Successfully ************
+05/21/2024 02:41:36 PM: INFO: ************ Starting Search Customer by Email ************
+05/21/2024 02:41:37 PM: INFO: *********** Searching Customer By Email **************
+05/21/2024 02:41:43 PM: INFO: *************** TC_searchByEmail Finished **************
+05/21/2024 02:41:43 PM: INFO: *-------------------------------****--------------------------------*
+05/21/2024 02:41:46 PM: INFO: ***** Test_005_SearchCustomersByName *****
+05/21/2024 02:41:49 PM: INFO: *********** Login Successfully ************
+05/21/2024 02:41:49 PM: INFO: ************ Starting Search Customer by Name ************
+05/21/2024 02:41:51 PM: INFO: *********** Searching Customer By Name **************
+05/21/2024 02:41:57 PM: INFO: *************** TC_searchByName Finished **************
+05/21/2024 02:41:57 PM: INFO: *-------------------------------****--------------------------------*
+05/21/2024 03:21:09 PM: INFO: ***** Test_005_SearchCustomersByName *****
+05/21/2024 03:21:13 PM: INFO: *********** Login Successfully ************
+05/21/2024 03:21:13 PM: INFO: ************ Starting Search Customer by Name ************
+05/21/2024 03:21:15 PM: INFO: *********** Searching Customer By Name **************
+05/21/2024 03:21:21 PM: INFO: *************** TC_searchByName Finished **************
+05/21/2024 03:21:21 PM: INFO: *-------------------------------****--------------------------------*
