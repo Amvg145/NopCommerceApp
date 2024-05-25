@@ -1,3 +1,4 @@
 pytest
 pytest-html
 openpyxl
+webdriver_manager

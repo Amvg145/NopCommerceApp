@@ -38,7 +38,7 @@ class Test_005_SearchCustomersByName:
         self.searchCustmr.setFname("Victoria")
         self.searchCustmr.setLname("Terces")
         self.searchCustmr.clickOnSearchBtn()
-        self.driver.execute_script("window.scrollTo(0, 400)")
+        self.driver.execute_script("window.scrollTo(0, 300)")
         time.sleep(5)
         status = self.searchCustmr.searchCustomerByName("Victoria Terces")
         assert True == status

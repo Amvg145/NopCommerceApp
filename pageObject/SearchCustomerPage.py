@@ -53,8 +53,10 @@ class SearchCustomer:
         flag = False
         for r in range(1, self.getNoOfRows()+1):
             table = self.driver.find_element(By.XPATH, self.tbl_searchResult_xpath)
-            CName = table.find_element(By.XPATH, "//table[@id='customers-grid']//tbody/tr['+str(r)']/td[3]").text
-            if CName == name:
+            wait = WebDriverWait(self.driver,10)
+            wu = wait.until(EC.visibility_of_element_located((By.XPATH, "//table[@id='customers-grid']//tbody/tr['+str(r)']/td[3]"))).text
+            # CName = table.find_element(By.XPATH, "//table[@id='customers-grid']//tbody/tr['+str(r)']/td[3]").text
+            if wu == name:
                 flag = True
                 break
         return flag
