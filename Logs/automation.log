@@ -307,3 +307,29 @@
 05/25/2024 11:31:34 AM: INFO: *********** Searching Customer By Name **************
 05/25/2024 11:31:41 AM: INFO: *************** TC_searchByName Finished **************
 05/25/2024 11:31:41 AM: INFO: *-------------------------------****--------------------------------*
+05/25/2024 11:54:41 AM: INFO: ***** Test_003_AddCustomers *****
+05/25/2024 11:54:50 AM: INFO: *********** Login Successfully ************
+05/25/2024 11:54:50 AM: INFO: ************ Started Add Customer Test ************
+05/25/2024 11:55:00 AM: INFO: ******************** Test_001_Login ***************************
+05/25/2024 11:55:00 AM: INFO: ******************** Verifying Home Page **********************
+05/25/2024 11:55:03 AM: INFO: ************* test_homePageTitle test case is Passed **************
+05/25/2024 11:55:11 AM: INFO: ******************** Test_001_Login ***************************
+05/25/2024 11:55:11 AM: INFO: ******************** Verifying Login Page **********************
+05/25/2024 11:55:18 AM: INFO: ************* test_login test case is Passed **************
+05/25/2024 11:55:18 AM: INFO: *-------------------------------****--------------------------------*
+05/25/2024 11:55:27 AM: INFO: ******************** Test_002_DDT_Login ************************
+05/25/2024 11:55:27 AM: INFO: **************** Verifying Login Page *****************
+05/25/2024 11:55:37 AM: INFO: ***** Passed *****
+05/25/2024 11:55:45 AM: INFO: ***** Passed *****
+05/25/2024 11:55:51 AM: INFO: ***** Passed *****
+05/25/2024 11:55:57 AM: INFO: ***** Passed *****
+05/25/2024 11:55:57 AM: INFO: ****** Login DDT testdata Passed... *******
+05/25/2024 11:55:57 AM: INFO: ***** End of Login Page DDT test *****
+05/25/2024 11:55:57 AM: INFO: ***** Completed Test_002_DDT_Login 
+05/25/2024 11:55:57 AM: INFO: *-------------------------------****--------------------------------*
+05/25/2024 11:56:06 AM: INFO: ***** Test_004_SearchCustomersByEmail *****
+05/25/2024 11:56:11 AM: INFO: *********** Login Successfully ************
+05/25/2024 11:56:11 AM: INFO: ************ Starting Search Customer by Email ************
+05/25/2024 11:56:20 AM: INFO: ***** Test_005_SearchCustomersByName *****
+05/25/2024 11:56:27 AM: INFO: *********** Login Successfully ************
+05/25/2024 11:56:27 AM: INFO: ************ Starting Search Customer by Name ************
